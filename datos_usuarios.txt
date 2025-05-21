@@ -1,0 +1,1 @@
+model name	: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz
