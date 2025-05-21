@@ -1,0 +1,67 @@
+
+vagrant@VMPruebas:~$
+echo “Usuario=$(whoami)” > datos_usuario.txt
+grep <parámetro> Home_url /etc/os-release
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ks
+ls
+cat /proc/cpuinfo | grep "model name"
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+mkdir repogit
+rm -rf /repogit 
+mkdir repogit
+tree
+rm -rf repogit
+mkdir repogit
+cd repogit
+git clone git@github.com:joaco9omg/UTNFRA_SO_1P2C_2024_-valdezjoaqauin-.git
+cd UTNFRA_SO_1P2C_2024_-valdezjoaqauin-/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release 
+grep <-i> Home_url /etc/os-release 
+grep <-i> Home_url /etc/os-release
+cd repogit/UTNFRA_SO_1P2C_2024_-valdezjoaqauin-/
+uin-/
+vagrant@VMPruebas:~/repogit/UTNFRA_SO_1P2C_2024_-valdezjoaqauin-$ grep <parámetro> Home_url /etc/os-relea
+uin-/
+vagrant@VMPruebas:~/repogit/UTNFRA_SO_1P2C_2024_-valdezjoaqauin-$ grep <parámetro> Home_url /etc/os-relea
+grep -i Home_url /etc/os-release 
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+git addgit ad
+git config --global user.email "TU-email"
+git config --global user.name
+"Tu-Usuario"git config --global user.email "TU-email"
+git config --global user.email "joaquinvaldez806@gmail.com"
+git --global user.name "joacovaldez"
+git config --global user.name "joacovaldez"
+git add .
+git status
+git git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+cd datos_usuarios.txt
+cat datos_usuarios.txt
+git add .
+git commit "feat:añadiendo informacion de cpu"
+git commit -m "feat: añadiendo informacion de cpu"
+cat <<EOF >> README.md
+alumno: joaquin valdez
+division: 318
+turno: noche
+EOF
+
+git add .
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
